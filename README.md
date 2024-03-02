@@ -1,9 +1,9 @@
 # PHE Adventures
 
-`Source code disclaimer: This was decompiled via a third party UndertaleModTool script and is NOT guaranteed to be fully functional. If you get script errors or warnings of missing files, there's nothing I can do about that`
+`Source code disclaimer: This was decompiled via a third party UndertaleModTool script and is NOT guaranteed to be fully functional. I'm currently working on a decompilation of this as well as all of my other GMS games which will remain private until complete`
 
-An old game for an old (Now long defunct) game collaboration company `Correction: It was never "funct" to begin with. The "company" was just me SAYING we would start a company.. Which as you can imagine.. Went nowhere fast`
+A VERY quickly abandoned tech demo for a now EXTREMELY defunct "company" known as [Team PHE](https://pikakid98.github.io/weebly-archive/thepikakid98graveyard.weebly.com/team-phe.html) which intended to be tie-in Smash Bros.-like game featuring characters from 3 now defunct co-.. ok.. 1 defunct company and 2 companies that were never registered.. For context. The "PHE" in Team PHE (Pronounced "Fee") stands for Pikakid98 Studios (Now Pikakid98 Games), Hand In The Cookie Jar Productions (Now Not-So Classic Games) and EyeShellGames (Now.. fucking nothing). Built on top of PurrCatory's demo build for whatever reason.. I literally just copied PurrCatory's demo build and just replaced the assets.. wow
 
-My original plan for this game was for it to be a Super Smash Bros. styled game with a story mode not too dissimilar to Super Smash Bros. Brawl's Subspace Emissary mode and featuring the main members of "Team PHE" (which stands for Pikakid98 Studios, Hand In The Cookie Jar Productions (Now Not-So Classic Games) and EyeShellGames) with additional characters being cameos from either existing Team PHE games, future games or even scrapped games. However this game never got past the super basic prototype and only exists now as an archive.
+### <b><u>Building requirements</b></u>
 
-You can read more here ► https://pikakid98games.wordpress.com/pheadventures/
+[GameMaker Studio 1](https://gminstall.yoyogames.com/downloads/gm-studio/GMStudio-Installer-1.4.9999.exe)
