@@ -84,22 +84,20 @@ y += vsp
       <action>
         <libid>1</libid>
         <id>212</id>
-        <kind>7</kind>
+        <kind>0</kind>
         <userelative>0</userelative>
         <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>2</exetype>
-        <functionname></functionname>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_end_sound</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
-            <kind>1</kind>
-            <string>action_end_sound(0)
-action_another_room(3)
-</string>
+            <kind>6</kind>
+            <sound>prototype_menu_snd</sound>
           </argument>
         </arguments>
       </action>
@@ -108,35 +106,28 @@ action_another_room(3)
       <action>
         <libid>1</libid>
         <id>223</id>
-        <kind>7</kind>
+        <kind>0</kind>
         <userelative>0</userelative>
         <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>2</exetype>
-        <functionname></functionname>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_current_room</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>1</kind>
-            <string>action_current_room()
-</string>
-          </argument>
-        </arguments>
       </action>
     </event>
     <event eventtype="9" enumb="39">
       <action>
         <libid>1</libid>
         <id>101</id>
-        <kind>7</kind>
-        <userelative>0</userelative>
+        <kind>0</kind>
+        <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
-        <exetype>2</exetype>
-        <functionname></functionname>
+        <exetype>1</exetype>
+        <functionname>action_move</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -144,8 +135,11 @@ action_another_room(3)
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>action_move("000000000", 0)
-</string>
+            <string>000001000</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>5</string>
           </argument>
         </arguments>
       </action>
@@ -154,12 +148,12 @@ action_another_room(3)
       <action>
         <libid>1</libid>
         <id>101</id>
-        <kind>7</kind>
-        <userelative>0</userelative>
+        <kind>0</kind>
+        <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
-        <exetype>2</exetype>
-        <functionname></functionname>
+        <exetype>1</exetype>
+        <functionname>action_move</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -167,8 +161,11 @@ action_another_room(3)
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>action_move("000000000", 0)
-</string>
+            <string>000100000</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>5</string>
           </argument>
         </arguments>
       </action>
@@ -177,21 +174,21 @@ action_another_room(3)
       <action>
         <libid>1</libid>
         <id>224</id>
-        <kind>7</kind>
+        <kind>0</kind>
         <userelative>0</userelative>
         <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>2</exetype>
-        <functionname></functionname>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_another_room</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
-            <kind>1</kind>
-            <string>action_another_room(1)
-</string>
+            <kind>11</kind>
+            <room>action_another_room(1)
+</room>
           </argument>
         </arguments>
       </action>
@@ -200,12 +197,12 @@ action_another_room(3)
       <action>
         <libid>1</libid>
         <id>101</id>
-        <kind>7</kind>
-        <userelative>0</userelative>
+        <kind>0</kind>
+        <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
-        <exetype>2</exetype>
-        <functionname></functionname>
+        <exetype>1</exetype>
+        <functionname>action_move</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -213,8 +210,11 @@ action_another_room(3)
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>action_move("000000000", 0)
-</string>
+            <string>000010000</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0</string>
           </argument>
         </arguments>
       </action>
@@ -223,12 +223,12 @@ action_another_room(3)
       <action>
         <libid>1</libid>
         <id>101</id>
-        <kind>7</kind>
-        <userelative>0</userelative>
+        <kind>0</kind>
+        <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
-        <exetype>2</exetype>
-        <functionname></functionname>
+        <exetype>1</exetype>
+        <functionname>action_move</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -236,8 +236,11 @@ action_another_room(3)
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>action_move("000000000", 0)
-</string>
+            <string>000010000</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0</string>
           </argument>
         </arguments>
       </action>
@@ -247,12 +250,12 @@ action_another_room(3)
   <PhysicsObjectSensor>0</PhysicsObjectSensor>
   <PhysicsObjectShape>0</PhysicsObjectShape>
   <PhysicsObjectDensity>0.5</PhysicsObjectDensity>
-  <PhysicsObjectRestitution>0.1</PhysicsObjectRestitution>
+  <PhysicsObjectRestitution>0.100000001490116</PhysicsObjectRestitution>
   <PhysicsObjectGroup>0</PhysicsObjectGroup>
-  <PhysicsObjectLinearDamping>0.1</PhysicsObjectLinearDamping>
-  <PhysicsObjectAngularDamping>0.1</PhysicsObjectAngularDamping>
-  <PhysicsObjectFriction>0.2</PhysicsObjectFriction>
+  <PhysicsObjectLinearDamping>0.100000001490116</PhysicsObjectLinearDamping>
+  <PhysicsObjectAngularDamping>0.100000001490116</PhysicsObjectAngularDamping>
+  <PhysicsObjectFriction>0.200000002980232</PhysicsObjectFriction>
   <PhysicsObjectAwake>-1</PhysicsObjectAwake>
   <PhysicsObjectKinematic>0</PhysicsObjectKinematic>
-  <PhysicsShapePoints />
+  <PhysicsShapePoints/>
 </object>
