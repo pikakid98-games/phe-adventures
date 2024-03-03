@@ -6,8 +6,6 @@
   <NewExtensions/>
   <sounds name="sound">
     <sound>sound\prototype_menu_snd</sound>
-    <sound>sound\audio</sound>
-    <sound>sound\Pikakid98_Forest_Of_Dreams__PurrCatory_OST</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_wall</sprite>
@@ -27,97 +25,15 @@
     <sprite>sprites\view_prototypes_off_spr</sprite>
     <sprite>sprites\view_prototypes_on_spr</sprite>
     <sprite>sprites\wall_spr</sprite>
-    <sprite>sprites\images</sprite>
     <sprite>sprites\About_off_spr</sprite>
     <sprite>sprites\About_on_spr</sprite>
-    <sprite>sprites\sprite52</sprite>
-    <sprite>sprites\sprite74</sprite>
-    <sprite>sprites\sprite71</sprite>
-    <sprite>sprites\sprite68</sprite>
-    <sprite>sprites\sprite75</sprite>
-    <sprite>sprites\sprite54</sprite>
-    <sprite>sprites\sprite56</sprite>
-    <sprite>sprites\Mittens_left_moving</sprite>
-    <sprite>sprites\Mittens_right_moving</sprite>
-    <sprite>sprites\sprite70</sprite>
-    <sprite>sprites\Kitty_stopped</sprite>
-    <sprite>sprites\sprite67</sprite>
     <sprite>sprites\sprite61</sprite>
-    <sprite>sprites\sprite72</sprite>
-    <sprite>sprites\Mittens_left_stopped</sprite>
-    <sprite>sprites\sprite57</sprite>
-    <sprite>sprites\sprite63</sprite>
-    <sprite>sprites\sprite76</sprite>
-    <sprite>sprites\hp_on_far_left_sprite</sprite>
-    <sprite>sprites\Kitty_moving</sprite>
-    <sprite>sprites\hp_off_middle_sprite</sprite>
-    <sprite>sprites\sprite42</sprite>
-    <sprite>sprites\hp_on_middle_sprite</sprite>
-    <sprite>sprites\sprite44</sprite>
-    <sprite>sprites\sprite43</sprite>
-    <sprite>sprites\sprite64</sprite>
-    <sprite>sprites\sprite59</sprite>
-    <sprite>sprites\sprite79</sprite>
-    <sprite>sprites\sprite55</sprite>
-    <sprite>sprites\hp_on_far_right_sprite</sprite>
-    <sprite>sprites\sprite58</sprite>
-    <sprite>sprites\sprite40</sprite>
-    <sprite>sprites\hp_off_far_right_sprite</sprite>
-    <sprite>sprites\sprite90</sprite>
-    <sprite>sprites\sprite81</sprite>
-    <sprite>sprites\sprite83</sprite>
-    <sprite>sprites\sprite88</sprite>
-    <sprite>sprites\sprite82</sprite>
-    <sprite>sprites\sprite85</sprite>
-    <sprite>sprites\sprite84</sprite>
-    <sprite>sprites\sprite92</sprite>
-    <sprite>sprites\sprite100</sprite>
-    <sprite>sprites\sprite80</sprite>
-    <sprite>sprites\sprite89</sprite>
-    <sprite>sprites\sprite99</sprite>
-    <sprite>sprites\sprite98</sprite>
-    <sprite>sprites\sprite78</sprite>
-    <sprite>sprites\sprite96</sprite>
-    <sprite>sprites\sprite87</sprite>
     <sprite>sprites\sprite73</sprite>
-    <sprite>sprites\sprite94</sprite>
-    <sprite>sprites\sprite91</sprite>
-    <sprite>sprites\sprite93</sprite>
-    <sprite>sprites\Mittens_right_stopped</sprite>
-    <sprite>sprites\sprite86</sprite>
-    <sprite>sprites\sprite97</sprite>
-    <sprite>sprites\hp_off_far_left_sprite</sprite>
-    <sprite>sprites\sprite62</sprite>
-    <sprite>sprites\sprite95</sprite>
-    <sprite>sprites\sprite69</sprite>
-    <sprite>sprites\sprite51</sprite>
-    <sprite>sprites\sprite66</sprite>
-    <sprite>sprites\sprite53</sprite>
-    <sprite>sprites\sprite101_sprite46_0</sprite>
-    <sprite>sprites\sprite101_sprite47_0</sprite>
-    <sprite>sprites\sprite101_sprite48_0</sprite>
-    <sprite>sprites\sprite101_sprite49_0</sprite>
-    <sprite>sprites\sprite101_sprite50_0</sprite>
     <sprite>sprites\sprite101</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\prototype_menu_bg</background>
-    <background>background\Death_Zone_lab</background>
-    <background>background\Hell</background>
-    <background>background\Deepest_Hell</background>
-    <background>background\Deep_Hell</background>
-    <background>background\Death_Zone_final_battle</background>
-    <background>background\hub_bg_5</background>
-    <background>background\hub_bg_1</background>
-    <background>background\hub_bg_3</background>
-    <background>background\Even_Deeper_Hell</background>
     <background>background\images_new</background>
-    <background>background\hub_bg_6</background>
-    <background>background\title_BG</background>
-    <background>background\hub_bg_4</background>
-    <background>background\Deeper_Hell</background>
-    <background>background\hub_bg_2</background>
-    <background>background\Demo_Note</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
@@ -128,7 +44,6 @@
     <object>objects\test</object>
     <object>objects\obj_wall</object>
     <object>objects\par_wall</object>
-    <object>objects\quit_on</object>
     <object>objects\test_level_help_0_0_1_obj</object>
     <object>objects\v_0_0_1</object>
     <object>objects\v_0_0_1_obj</object>
@@ -145,73 +60,17 @@
     <object>objects\par_wall_new</object>
     <object>objects\phea_logo</object>
     <object>objects\protolaunch</object>
+    <object>objects\quit_on</object>
     <object>objects\quit_off</object>
-    <object>objects\mittens</object>
-    <object>objects\lv1</object>
-    <object>objects\purrcatory_title_CAT1</object>
-    <object>objects\lv2</object>
-    <object>objects\purrcatory_title_CAT2</object>
-    <object>objects\purrcatory_title_PURR</object>
-    <object>objects\object23</object>
-    <object>objects\object59</object>
-    <object>objects\load_on</object>
-    <object>objects\temp</object>
-    <object>objects\object54</object>
-    <object>objects\object58</object>
-    <object>objects\purrcatory_title_CAT4</object>
-    <object>objects\new_off</object>
-    <object>objects\object18</object>
-    <object>objects\object64</object>
-    <object>objects\object65</object>
-    <object>objects\load_off</object>
-    <object>objects\new_on</object>
-    <object>objects\obj_enemy_goopy_blob</object>
-    <object>objects\object66</object>
-    <object>objects\object57</object>
-    <object>objects\boss_bar</object>
-    <object>objects\object34</object>
-    <object>objects\object35</object>
-    <object>objects\object36</object>
-    <object>objects\object37</object>
-    <object>objects\object38</object>
-    <object>objects\object39</object>
-    <object>objects\object42</object>
-    <object>objects\obj_enemy_goopyglob_testboss</object>
-    <object>objects\object25</object>
-    <object>objects\object29</object>
-    <object>objects\object40</object>
-    <object>objects\purrcatory_title_CAT3</object>
-    <object>objects\obj_lava</object>
-    <object>objects\warp_zone_demo_1</object>
-    <object>objects\enemy_bounce_wall</object>
-    <object>objects\obj_icewall</object>
-    <object>objects\object56</object>
-    <object>objects\object45</object>
     <object>objects\prototypehud_obj</object>
-    <object>objects\demotestroom_1</object>
-    <object>objects\demotestroom_2</object>
-    <object>objects\demotestroom_3</object>
-    <object>objects\demotestroom_4</object>
-    <object>objects\demotestroom_5</object>
+    <object>objects\temp</object>
+    <object>objects\object42</object>
+    <object>objects\enemy_bounce_wall</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\intro_room</room>
     <room>rooms\title</room>
     <room>rooms\test_map_1</room>
-    <room>rooms\Title_1</room>
-    <room>rooms\Title_2</room>
-    <room>rooms\Title_3</room>
-    <room>rooms\Title_4</room>
-    <room>rooms\Title_5__Demo_Only_</room>
-    <room>rooms\test_room_select</room>
-    <room>rooms\Test_Room_1</room>
-    <room>rooms\Test_Room_2</room>
-    <room>rooms\Test_Room_3</room>
-    <room>rooms\Test_Room_4</room>
-    <room>rooms\Test_Room_5</room>
-    <room>rooms\Test_Room_5_1</room>
-    <room>rooms\Test_Room_5_2</room>
-    <room>rooms\Test_Room_5_3</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

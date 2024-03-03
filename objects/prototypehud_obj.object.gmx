@@ -25,8 +25,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>action_draw_sprite(88, 0, 0, 0)
-</sprite>
+            <sprite>sprite101</sprite>
           </argument>
           <argument>
             <kind>0</kind>

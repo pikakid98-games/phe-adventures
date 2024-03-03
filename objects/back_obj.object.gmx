@@ -25,8 +25,7 @@
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>action_another_room(-1)
-</room>
+            <room>title</room>
           </argument>
         </arguments>
       </action>

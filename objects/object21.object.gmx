@@ -95,8 +95,7 @@ movespeed = 7
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>action_sprite_set(28, 0, 1)
-</sprite>
+            <sprite>temp_char_0_0_1_spr</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -126,8 +125,7 @@ movespeed = 7
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>action_sprite_set(27, 0, 1)
-</sprite>
+            <sprite>temp_char_0_0_1_spr</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -143,25 +141,21 @@ movespeed = 7
     <event eventtype="9" enumb="27">
       <action>
         <libid>1</libid>
-        <id>211</id>
+        <id>605</id>
         <kind>0</kind>
         <userelative>0</userelative>
         <isquestion>0</isquestion>
         <useapplyto>0</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_sound</functionname>
+        <exetype>0</exetype>
+        <functionname></functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
-            <kind>6</kind>
-            <sound>audio</sound>
-          </argument>
-          <argument>
-            <kind>3</kind>
-            <string>0</string>
+            <kind>1</kind>
+            <string>Play sound (I have no idea.This game had 0 sound effects and it was just a windows ding o-O)</string>
           </argument>
         </arguments>
       </action>
@@ -183,8 +177,7 @@ movespeed = 7
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>action_sprite_set(73, 0, 1)
-</sprite>
+            <sprite>temp_char_0_0_1_spr</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -214,8 +207,7 @@ movespeed = 7
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>action_sprite_set(34, 0, 1)
-</sprite>
+            <sprite>temp_char_0_0_1_spr</sprite>
           </argument>
           <argument>
             <kind>0</kind>

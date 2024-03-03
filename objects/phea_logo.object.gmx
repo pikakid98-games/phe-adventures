@@ -25,12 +25,11 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>action_sound(0, 1)
-</sound>
+            <sound>prototype_menu_snd</sound>
           </argument>
           <argument>
             <kind>3</kind>
-            <string>0</string>
+            <string>1</string>
           </argument>
         </arguments>
       </action>
